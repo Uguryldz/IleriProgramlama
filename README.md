@@ -1,7 +1,8 @@
 # IleriProgramlama
 
 
-Chatbot Çalıştır
+NodeJS Basşt Chatbot Uygulaması
+çalıştır
 ```
 node app.js
 ```
